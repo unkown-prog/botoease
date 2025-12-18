@@ -2,13 +2,13 @@
 
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/botoease?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/botoease)
 
-**UPDATED — v0.2.0 (Production-Ready Sync, Safety & Ignore Support)**
+**UPDATED — v0.2.0 (RSync, Safety & Ignore Support)**
 
 BotoEase is a smart, lightweight file storage library for Python that provides a **unified, predictable API** for working with **Local Storage** and **AWS S3**.
 
 It removes the repetitive, error-prone boilerplate around `boto3` and local filesystem handling, while adding real-world features developers usually have to implement themselves.
 
-**Designed for backend services, automation scripts, and production systems.**
+**Designed for backend services, automation scripts**
 
 ---
 
